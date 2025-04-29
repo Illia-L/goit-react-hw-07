@@ -1,0 +1,21 @@
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+p,
+form,
+input,
+label,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}

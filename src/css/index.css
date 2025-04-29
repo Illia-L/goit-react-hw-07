@@ -1,0 +1,9 @@
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.app-container {
+  margin: 24px auto;
+  max-width: 600px;
+}

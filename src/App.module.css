@@ -1,0 +1,9 @@
+.apiMessage {
+  margin-top: 16px;
+  height: 20px;
+}
+
+.fail {
+  color: #e11d62;
+  font-size: 14px;
+}
