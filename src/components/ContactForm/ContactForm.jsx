@@ -15,7 +15,6 @@ function ContactForm() {
   const numberId = useId();
 
   function handleSumbit(values, actions) {
-    console.log({...values});
     dispatch(addContact({...values}));
     actions.resetForm();
   }
